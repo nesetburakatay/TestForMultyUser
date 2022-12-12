@@ -1,0 +1,15 @@
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\bin\Debug\net6.0\TestForMulty.exe
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\bin\Debug\net6.0\TestForMulty.deps.json
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\bin\Debug\net6.0\TestForMulty.runtimeconfig.json
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\bin\Debug\net6.0\TestForMulty.dll
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\bin\Debug\net6.0\TestForMulty.pdb
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.csproj.AssemblyReference.cache
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.AssemblyInfoInputs.cache
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.AssemblyInfo.cs
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.csproj.CoreCompileInputs.cache
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.dll
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\refint\TestForMulty.dll
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.pdb
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\TestForMulty.genruntimeconfig.cache
+C:\Users\elifc\Desktop\TestForMulty\TestForMulty\obj\Debug\net6.0\ref\TestForMulty.dll
