@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elifc\\Desktop\\TestForMulty\\TestForMulty\\TestForMulty.csproj": {}
+    "C:\\Users\\elifc\\Desktop\\TestForMultyUser\\TestForMulty\\TestForMulty\\TestForMulty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elifc\\Desktop\\TestForMulty\\TestForMulty\\TestForMulty.csproj": {
+    "C:\\Users\\elifc\\Desktop\\TestForMultyUser\\TestForMulty\\TestForMulty\\TestForMulty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elifc\\Desktop\\TestForMulty\\TestForMulty\\TestForMulty.csproj",
+        "projectUniqueName": "C:\\Users\\elifc\\Desktop\\TestForMultyUser\\TestForMulty\\TestForMulty\\TestForMulty.csproj",
         "projectName": "TestForMulty",
-        "projectPath": "C:\\Users\\elifc\\Desktop\\TestForMulty\\TestForMulty\\TestForMulty.csproj",
+        "projectPath": "C:\\Users\\elifc\\Desktop\\TestForMultyUser\\TestForMulty\\TestForMulty\\TestForMulty.csproj",
         "packagesPath": "C:\\Users\\elifc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elifc\\Desktop\\TestForMulty\\TestForMulty\\obj\\",
+        "outputPath": "C:\\Users\\elifc\\Desktop\\TestForMultyUser\\TestForMulty\\TestForMulty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
